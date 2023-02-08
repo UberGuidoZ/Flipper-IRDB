@@ -49,7 +49,7 @@ protocol: NEC
 address: F7 00 00 00
 command: C3 00 00 00
 # 
-name: Boo
+name: Input
 type: parsed
 protocol: NEC
 address: F7 00 00 00
@@ -67,7 +67,7 @@ protocol: NEC
 address: F7 00 00 00
 command: DB 00 00 00
 # 
-name: Boo1
+name: Screen_Shade 
 type: parsed
 protocol: NEC
 address: F7 00 00 00
