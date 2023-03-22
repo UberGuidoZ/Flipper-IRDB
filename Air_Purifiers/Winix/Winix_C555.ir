@@ -1,5 +1,7 @@
 Filetype: IR signals file
 Version: 1
+#
+# Winix C555 Air Purifier
 # 
 name: POWER
 type: parsed
