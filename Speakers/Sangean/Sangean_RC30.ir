@@ -3,7 +3,7 @@ Version: 1
 # 
 # For Sangean RC30 Bluetooth Speaker, Clock and FM/AM Radio
 # 
-name: Power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

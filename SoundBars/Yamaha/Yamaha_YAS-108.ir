@@ -4,7 +4,7 @@ Version: 1
 # Yamaha Soundbar YAS-108
 # Remote Model Number VAF7640
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 78 00 00 00
@@ -34,7 +34,7 @@ protocol: NEC
 address: 78 00 00 00
 command: 4D 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 78 00 00 00

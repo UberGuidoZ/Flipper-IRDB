@@ -4,13 +4,13 @@ Version: 1
 # Panasonic Blu-Ray DMP_BD75
 # by sealldeveloper
 #
-name: Power
+name: POWER
 type: parsed
 protocol: Kaseikyo
 address: B0 02 20 00
 command: D0 03 00 00
 # 
-name: TV_Power
+name: TV_POWER
 type: parsed
 protocol: Kaseikyo
 address: 80 02 20 00

@@ -3,7 +3,7 @@ Version: 1
 # 
 # Yamaha_RAV203_V473170_US
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 7A 00 00 00

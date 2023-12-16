@@ -3,7 +3,7 @@ Version: 1
 # 
 # Xbox One confirmed
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 80 D8 00 00
@@ -146,7 +146,7 @@ protocol: NECext
 address: 80 D8 00 00
 command: 72 8D 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NECext
 address: 80 D8 00 00

@@ -3,7 +3,7 @@ Version: 1
 # 
 # Sony Amp STR-DE875
 #
-name: Power
+name: POWER
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
@@ -33,7 +33,7 @@ protocol: SIRC
 address: 10 00 00 00
 command: 13 00 00 00
 # 
-name: Vol_Mute
+name: Vol_MUTE
 type: parsed
 protocol: SIRC
 address: 10 00 00 00

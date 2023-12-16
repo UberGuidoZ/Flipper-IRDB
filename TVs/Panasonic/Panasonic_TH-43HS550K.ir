@@ -4,7 +4,7 @@ Version: 1
 # Panasonic Smart Android TV Remote Control
 # Compatible for Model: TH-32HS550K TH-40GS550K TH-40HS550K TH-43HS550K TH-49GX650K TH-55GX650K TH-65GX650K TH-49GX655K TH-55GX655K TH-65GX655K TH-43HX650K TH-50HX650K TH-65HX650K TH-40GS550K TH-49GS550K TH-55GS550K TH-65GS550K
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: Samsung32
 address: 3E 00 00 00
@@ -94,7 +94,7 @@ protocol: Samsung32
 address: 3E 00 00 00
 command: 13 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: Samsung32
 address: 3E 00 00 00

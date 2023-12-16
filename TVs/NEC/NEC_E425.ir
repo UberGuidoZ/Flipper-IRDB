@@ -3,7 +3,7 @@ Version: 1
 #
 # NEC E425 TV
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 38 00 00 00
@@ -135,7 +135,7 @@ protocol: NEC
 address: 38 00 00 00
 command: 08 00 00 00
 #
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 38 00 00 00

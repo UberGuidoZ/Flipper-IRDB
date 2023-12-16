@@ -3,7 +3,7 @@ Version: 1
 # 
 # Humax Cable Box
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 00 10 00 00

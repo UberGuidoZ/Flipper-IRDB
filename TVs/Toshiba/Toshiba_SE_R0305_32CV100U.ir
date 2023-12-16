@@ -5,7 +5,7 @@ Version: 1
 #
 # Captured by: emptythevoid
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 40 00 00 00
@@ -119,7 +119,7 @@ protocol: NEC
 address: 44 00 00 00
 command: 53 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 40 00 00 00

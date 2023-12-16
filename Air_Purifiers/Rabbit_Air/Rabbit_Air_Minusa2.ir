@@ -3,7 +3,7 @@ Version: 1
 # 
 # Rabbit Air Minusa2 Air Purifier
 #
-name: Power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

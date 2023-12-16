@@ -35,7 +35,7 @@ protocol: NECext
 address: 04 F4 00 00
 command: 44 BB 00 00
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 04 F4 00 00
@@ -71,7 +71,7 @@ protocol: NECext
 address: 04 F4 00 00
 command: 03 FC 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NECext
 address: 04 F4 00 00

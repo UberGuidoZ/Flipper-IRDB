@@ -3,7 +3,7 @@ Version: 1
 # 
 # Remote Panasonic N2QAJB000088 for Panasonic VCR NV-HV-61EF
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: Kaseikyo
 address: 90 02 20 00

@@ -5,7 +5,7 @@ Version: 1
 #
 # Captured by: emptythevoid
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 83 55 00 00

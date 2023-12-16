@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power
+type: parsed
+protocol: NEC
+address: 67 69 74 20
+command: 63 68 65 63
+# 
+name: Input
+type: parsed
+protocol: NEC
+address: 6B 6F 75 74
+command: 20 6D 61 69
+# 
+name: Vol_up
+type: parsed
+protocol: NEC
+address: 6E 3B 67 69
+command: 74 20 63 6F
+# 
+name: Vol_dn
+type: parsed
+protocol: NEC
+address: 6E 66 69 67
+command: 20 2D 2D 6C
+# 
+name: Mute
+type: parsed
+protocol: NEC
+address: 6F 63 61 6C
+command: 20 75 73 65
+# 
+name: Ch_next
+type: parsed
+protocol: NEC
+address: 72 2E 65 6D
+command: 61 69 6C 20
+# 
+name: Ch_prev
+type: parsed
+protocol: NEC
+address: 22 61 63 74
+command: 69 6F 6E 40
+# 
+name: Menu
+type: parsed
+protocol: NEC
+address: 67 69 74 68
+command: 75 62 2E 63
+# 
+name: Exit
+type: parsed
+protocol: NEC
+address: 6F 6D 22 3B
+command: 67 69 74 20
+# 
+name: Guide
+type: parsed
+protocol: NEC
+address: 63 6F 6E 66
+command: 69 67 20 2D
+# 
+name: Back
+type: parsed
+protocol: NEC
+address: 2D 6C 6F 63
+command: 61 6C 20 75
+# 
+name: Up
+type: parsed
+protocol: NEC
+address: 73 65 72 2E
+command: 6E 61 6D 65
+# 
+name: Down
+type: parsed
+protocol: NEC
+address: 20 22 47 69
+command: 74 48 75 62
+# 
+name: Left
+type: parsed
+protocol: NEC
+address: 20 41 63 74
+command: 69 6F 6E 22
+# 
+name: Right
+type: parsed
+protocol: NEC
+address: 3B 72 6D 20
+command: 2D 72 20 2E
+# 
+name: Ok
+type: parsed
+protocol: NEC
+address: 67 69 74 68
+command: 75 62 3B 67
+# 
+name: Vizio
+type: parsed
+protocol: NEC
+address: 69 74 20 61
+command: 64 64 20 2E
+# 
+name: Refresh
+type: parsed
+protocol: NEC
+address: 67 69 74 68
+command: 75 62 3B 20
+# 
+name: 1
+type: parsed
+protocol: NEC
+address: 67 69 74 20
+command: 63 6F 6D 6D
+# 
+name: 2
+type: parsed
+protocol: NEC
+address: 69 74 20 2D
+command: 6D 20 22 75
+# 
+name: 3
+type: parsed
+protocol: NEC
+address: 70 64 61 74
+command: 65 64 20 77
+# 
+name: 4
+type: parsed
+protocol: NEC
+address: 6F 72 6B 66
+command: 6C 6F 77 73
+# 
+name: 5
+type: parsed
+protocol: NEC
+address: 22 3B 20 67
+command: 69 74 20 70
+# 
+name: 6
+type: parsed
+protocol: NEC
+address: 75 73 68 00
+command: 00 00 00 00
+

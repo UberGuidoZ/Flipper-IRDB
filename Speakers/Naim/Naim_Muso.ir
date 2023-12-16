@@ -4,13 +4,13 @@ Version: 1
 # Naim Muso Gen1 Remote
 # Works on some other models of Naim speaker too
 #
-name: Power
+name: POWER
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 0C 00 00 00
 #
-name: Mute
+name: MUTE
 type: parsed
 protocol: RC5
 address: 15 00 00 00

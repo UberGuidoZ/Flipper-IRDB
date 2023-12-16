@@ -34,7 +34,7 @@ protocol: Kaseikyo
 address: 90 02 20 00
 command: 80 00 00 00
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: Kaseikyo
 address: 90 02 20 00

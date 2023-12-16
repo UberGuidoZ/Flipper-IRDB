@@ -3,7 +3,7 @@ Version: 1
 # 
 # Epson Projector EB Series (EB-W42, EB-W05, EB-X05, EB-X39, EB-970, EB-U05, EB-2247U)
 #
-name: Power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

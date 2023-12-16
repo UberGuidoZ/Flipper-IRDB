@@ -3,7 +3,7 @@ Version: 1
 # 
 # For Phillips CD-723 Player
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: RC5
 address: 14 00 00 00

@@ -3,7 +3,7 @@ Version: 1
 # 
 # Sony_I-WXH-80 Audio
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 01 00 00 00
@@ -21,7 +21,7 @@ protocol: NEC
 address: 01 00 00 00
 command: 0B 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 01 00 00 00

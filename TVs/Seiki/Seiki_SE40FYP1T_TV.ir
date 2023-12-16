@@ -3,7 +3,7 @@ Version: 1
 # 
 # Seiki SE40FYP1T TV
 #
-name: Power_seiki
+name: POWER_seiki
 type: parsed
 protocol: NECext
 address: 02 7D 00 00

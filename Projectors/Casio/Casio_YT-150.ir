@@ -3,7 +3,7 @@ Version: 1
 # 
 # Casio YT-150 Projector
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 84 F4 00 00

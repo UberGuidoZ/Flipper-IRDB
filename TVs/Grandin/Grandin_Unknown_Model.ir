@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 40 00 00 00
@@ -43,7 +43,7 @@ protocol: NEC
 address: 40 00 00 00
 command: 14 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 40 00 00 00

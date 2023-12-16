@@ -3,13 +3,13 @@ Version: 1
 # 
 # Philips TV 32PFL7962D/12
 #
-name: Power
+name: POWER
 type: parsed
 protocol: RC5
 address: 00 00 00 00
 command: 0C 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: RC5
 address: 00 00 00 00

@@ -5,7 +5,7 @@ Version: 1
 #
 # Captured by: emptythevoid
 #
-name: Power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

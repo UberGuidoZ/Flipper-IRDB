@@ -3,7 +3,7 @@ Version: 1
 # 
 # Frigidaire RG15D AC
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 08 F5 00 00

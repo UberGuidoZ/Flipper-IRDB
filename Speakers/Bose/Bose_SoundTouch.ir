@@ -4,7 +4,7 @@ Version: 1
 # Bose SoundTouch
 # https://www.bose.com/en_us/support/products/bose_speakers_support/bose_smarthome_speakers_support.html
 # 
-name: Power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

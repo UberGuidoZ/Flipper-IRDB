@@ -3,7 +3,7 @@ Version: 1
 # 
 # Baird T15011DLEDDS TV, Remote RC-6
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 01 00 00 00
@@ -69,7 +69,7 @@ protocol: NEC
 address: 01 00 00 00
 command: 1D 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 01 00 00 00

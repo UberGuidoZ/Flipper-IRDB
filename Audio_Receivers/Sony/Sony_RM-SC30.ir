@@ -4,7 +4,7 @@ Version: 1
 # Sony RMSC30 Audio Receiver
 # by sealldeveloper
 #
-name: Power
+name: POWER
 type: parsed
 protocol: SIRC
 address: 10 00 00 00

@@ -4,7 +4,7 @@ Version: 1
 # Remote model G0684CESA used with Sharp 19SV111 "Nintendo Television"
 #
 # Pg1 - Common
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 28 00 00 00
@@ -40,7 +40,7 @@ protocol: NEC
 address: 28 00 00 00
 command: 0F 00 00 00
 # Pg2 - Others
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 28 00 00 00

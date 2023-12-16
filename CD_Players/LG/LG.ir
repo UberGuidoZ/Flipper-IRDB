@@ -3,7 +3,7 @@ Version: 1
 # 
 # LG CD Player
 #
-name: Power
+name: POWER
 type: parsed
 protocol: Samsung32
 address: 10 00 00 00

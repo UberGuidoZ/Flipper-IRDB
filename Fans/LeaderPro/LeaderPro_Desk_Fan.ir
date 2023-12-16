@@ -3,7 +3,7 @@ Version: 1
 # 
 # LeaderPro Desk Fan
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 30 00 00 00

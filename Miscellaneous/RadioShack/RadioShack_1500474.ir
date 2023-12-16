@@ -3,7 +3,7 @@ Version: 1
 # 
 # RadioShack 3-in 2-out HDMI Matrix
 # 
-name: Power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

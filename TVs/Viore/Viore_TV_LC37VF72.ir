@@ -3,7 +3,7 @@ Version: 1
 # 
 # Viore TV LC37VF72
 #
-name: Power
+name: POWER
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00

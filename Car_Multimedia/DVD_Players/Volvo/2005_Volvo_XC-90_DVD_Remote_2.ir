@@ -1,6 +1,6 @@
 Filetype: IR signals file
 Version: 1
-name: Power/Back
+name: POWER/Back
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

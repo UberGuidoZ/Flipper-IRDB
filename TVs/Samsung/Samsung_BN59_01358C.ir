@@ -3,7 +3,7 @@ Version: 1
 #
 # Samsung BN59-01358C TV
 #
-name: Power
+name: POWER
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00

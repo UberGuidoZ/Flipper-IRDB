@@ -3,13 +3,13 @@ Version: 1
 # 
 # Octagon Cable Box
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 01 04 00 00
 command: 0A F5 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NECext
 address: 01 04 00 00

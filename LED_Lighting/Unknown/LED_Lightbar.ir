@@ -4,7 +4,7 @@ Version: 1
 # Generic LED Lightbar
 # https://www.aliexpress.com/item/1005005088458033.html
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 00 00 00 00

@@ -13,7 +13,7 @@ protocol: NECext
 address: 89 89 00 00
 command: 4D B2 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NECext
 address: 89 89 00 00

@@ -3,13 +3,13 @@ Version: 1
 # 
 # Xfinity XR2 Cable Box
 #
-name: Power
+name: POWER
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00
 command: 02 00 00 00
 # 
-name: TV_Power
+name: TV_POWER
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00
@@ -33,7 +33,7 @@ protocol: Samsung32
 address: 07 00 00 00
 command: 0B 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00

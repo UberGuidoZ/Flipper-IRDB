@@ -3,7 +3,7 @@ Version: 1
 # 
 # Arctic King RG15B1 AC
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 01 FF 00 00

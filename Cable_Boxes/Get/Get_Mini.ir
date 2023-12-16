@@ -64,7 +64,7 @@ protocol: NECext
 address: 48 24 00 00
 command: 1C E3 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NECext
 address: 48 24 00 00

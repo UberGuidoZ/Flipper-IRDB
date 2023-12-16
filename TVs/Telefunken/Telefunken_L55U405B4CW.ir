@@ -7,7 +7,7 @@ Version: 1
 # On JMB/Bush non Smart TV's 
 # SMART_HOME will not work.
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: RC5
 address: 01 00 00 00
@@ -103,7 +103,7 @@ protocol: RC5
 address: 01 00 00 00
 command: 2B 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: RC5
 address: 01 00 00 00

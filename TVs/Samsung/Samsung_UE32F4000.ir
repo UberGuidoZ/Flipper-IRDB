@@ -4,7 +4,7 @@ Version: 1
 # Model: Samsung UE32F4000 LED TV
 # Remote: Samsung AA59-00741A
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00
@@ -112,7 +112,7 @@ protocol: Samsung32
 address: 07 00 00 00
 command: 10 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00

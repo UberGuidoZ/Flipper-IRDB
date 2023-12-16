@@ -3,7 +3,7 @@ Version: 1
 # 
 #Lervia HNC 2500e
 #
-name: Power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

@@ -7,13 +7,13 @@ Version: 1
 # Product Page: https://kodabuilt.com/products/koda-46-led-linkable-shop-light-with-motion-sensor-and-remote-lm030037
 # Manual: https://cdn.shopify.com/s/files/1/0014/1534/8284/files/user-manual-koda-46-led-linkable-shop-light-with-motion-sensor-and-remote-lm030008.pdf?v=1608131916
 #
-name: Power_On
+name: POWER_On
 type: parsed
 protocol: NECext
 address: 7E 7E 00 00
 command: 05 FA 00 00
 #
-name: Power_Off
+name: POWER_Off
 type: parsed
 protocol: NECext
 address: 7E 7E 00 00

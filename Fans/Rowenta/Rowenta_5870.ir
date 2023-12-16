@@ -3,7 +3,7 @@ Version: 1
 #
 # Rowenta Turbo Silence Extreme+ VU5870 (Ref. VU5870F0)
 #
-name: Power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

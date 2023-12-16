@@ -2,7 +2,7 @@ Filetype: IR signals file
 Version: 1
 # 
 # Brandt Remote for Brandt DVDP-7R DVD Player
-# Power Button is on the DVD Player
+# POWER Button is on the DVD Player
 # 
 name: Sources
 type: parsed
@@ -10,7 +10,7 @@ protocol: NEC
 address: 00 00 00 00
 command: 46 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 00 00 00 00

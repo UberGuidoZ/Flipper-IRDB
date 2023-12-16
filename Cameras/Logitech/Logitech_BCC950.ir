@@ -16,7 +16,7 @@ protocol: NEC
 address: 02 00 00 00
 command: F8 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 02 00 00 00

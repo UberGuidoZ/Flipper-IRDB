@@ -214,7 +214,7 @@ protocol: NEC
 address: 00 00 00 00
 command: 1A 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 00 00 00 00

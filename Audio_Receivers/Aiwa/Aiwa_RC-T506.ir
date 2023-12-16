@@ -3,7 +3,7 @@ Version: 1
 # 
 # For Aiwa XR H100, NSXA909U, NSXMT70U, RC7ASO8 and other; Remote: RC-T506
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00

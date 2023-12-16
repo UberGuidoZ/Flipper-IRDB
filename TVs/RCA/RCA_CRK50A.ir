@@ -6,7 +6,7 @@ Version: 1
 # and decoding/reconstructing codes from real remote buttons (all tested working).
 # Reddit: https://www.reddit.com/r/flipperzero/comments/zy1tvu/comment/j30e4cm/
 #
-name: Power
+name: POWER
 type: raw
 frequency: 56000
 duty_cycle: 0.330000
@@ -36,7 +36,7 @@ frequency: 56000
 duty_cycle: 0.330000
 data: 4000 4000 500 2000 500 2000 500 2000 500 2000 500 1000 500 1000 500 2000 500 1000 500 2000 500 2000 500 2000 500 1000 500 1000 500 1000 500 1000 500 1000 500 2000 500 2000 500 1000 500 2000 500 1000 500 1000 500 1000 500 2000 500 10000
 #
-name: Mute
+name: MUTE
 type: raw
 frequency: 56000
 duty_cycle: 0.330000
@@ -150,13 +150,13 @@ frequency: 56000
 duty_cycle: 0.330000
 data: 4000 4000 500 2000 500 2000 500 2000 500 2000 500 1000 500 1000 500 2000 500 2000 500 1000 500 1000 500 1000 500 1000 500 1000 500 1000 500 1000 500 1000 500 2000 500 2000 500 1000 500 1000 500 2000 500 2000 500 2000 500 2000 500 10000
 # POWER_ON (labeled TV on the remote)
-name: Power_on_(3a)
+name: POWER_on_(3a)
 type: raw
 frequency: 56000
 duty_cycle: 0.330000
 data: 4000 4000 500 2000 500 2000 500 2000 500 2000 500 1000 500 1000 500 2000 500 2000 500 2000 500 1000 500 2000 500 1000 500 1000 500 1000 500 1000 500 1000 500 2000 500 2000 500 1000 500 1000 500 1000 500 2000 500 1000 500 2000 500 10000
 # POWER_OFF (labeled OFF on the remote)
-name: Power_off_(3b)
+name: POWER_off_(3b)
 type: raw
 frequency: 56000
 duty_cycle: 0.330000

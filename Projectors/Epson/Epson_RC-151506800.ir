@@ -31,7 +31,7 @@ protocol: NECext
 address: 83 55 00 00
 command: 76 89 00 00
 # 
-name: AV_Mute
+name: AV_MUTE
 type: parsed
 protocol: NECext
 address: 83 55 00 00

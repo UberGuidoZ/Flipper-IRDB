@@ -5,7 +5,7 @@ Version: 1
 # HDMI Switch/Splitter with Audio Extraction
 # https://www.amazon.com/gp/product/B07RZFG4MC
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 80 00 00 00

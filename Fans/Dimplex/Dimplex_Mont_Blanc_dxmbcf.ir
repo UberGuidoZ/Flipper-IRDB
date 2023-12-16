@@ -4,7 +4,7 @@ Version: 1
 # Dimplex Mont Blanc Tower Fan (UK: DXMBCF)
 # https://www.dimplex.co.uk/product/mont-blanc-tower-cooling-fan
 #
-name: Power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

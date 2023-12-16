@@ -3,7 +3,7 @@ Version: 1
 # 
 # Acer H6517ST
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 08 13 00 00

@@ -7,7 +7,7 @@ Version: 1
 #                  CMT-EH26, CMT-FX205, CMT-NEZ50, HCD-CBX5
 #                  HCD-EX600, MHC-EX600, MHC-EX700, MHC-EX900
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: SIRC
 address: 10 00 00 00

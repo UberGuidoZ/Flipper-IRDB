@@ -5,7 +5,7 @@ Version: 1
 # Leuchten Direkt ceiling led lamp sparkle white round
 # https://www.lightkontor.de/Leuchten_Direkt_14673-16-O_Deckenleuchte_Sparkle_weiss_rund.html
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 04 AC 00 00

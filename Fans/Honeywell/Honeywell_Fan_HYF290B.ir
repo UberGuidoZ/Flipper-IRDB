@@ -3,7 +3,7 @@ Version: 1
 #
 # Honeywell QuietSet Whole Room Tower Fan-Black, HYF290B
 #
-name: Power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

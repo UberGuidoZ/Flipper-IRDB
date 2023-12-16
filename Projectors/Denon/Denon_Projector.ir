@@ -3,7 +3,7 @@ Version: 1
 # 
 # Denon Projector
 #
-name: Power
+name: POWER
 type: parsed
 protocol: Kaseikyo
 address: 41 54 32 00

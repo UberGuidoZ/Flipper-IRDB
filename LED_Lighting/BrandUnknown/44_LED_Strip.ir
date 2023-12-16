@@ -4,7 +4,7 @@ Version: 1
 # 44-button generic LED strip
 # Includes Flash, Jump, Meteor,Roll, Auto
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 00 00 00 00

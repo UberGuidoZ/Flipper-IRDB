@@ -3,7 +3,7 @@ Version: 1
 # 
 # Samsung SR8875 Vacuum Robot
 #
-name: Power
+name: POWER
 type: parsed
 protocol: Samsung32
 address: 81 00 00 00

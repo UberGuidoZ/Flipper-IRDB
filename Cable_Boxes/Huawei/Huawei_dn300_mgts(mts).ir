@@ -4,7 +4,7 @@ Version: 1
 # Huawei DN300 MGTS Cable Box
 # https://cache3.youla.io/files/images/720_720_out/5c/5f/5c5f2a2eaaab2862d173cbef.jpg
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -70,7 +70,7 @@ protocol: NECext
 address: 00 BF 00 00
 command: 04 FB 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NECext
 address: 00 BF 00 00

@@ -8,7 +8,7 @@ Version: 1
 # 
 # Captured by: emptythevoid
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 33 00 00 00
@@ -44,7 +44,7 @@ protocol: NECext
 address: 33 00 00 00
 command: 8B 74 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NECext
 address: 33 00 00 00

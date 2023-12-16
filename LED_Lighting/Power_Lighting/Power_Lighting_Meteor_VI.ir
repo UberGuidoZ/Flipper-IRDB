@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-# Power Lighting Meteor VI LED light machine
+# POWER Lighting Meteor VI LED light machine
 #
 name: On_Off
 type: parsed

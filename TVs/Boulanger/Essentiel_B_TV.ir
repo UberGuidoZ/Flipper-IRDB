@@ -4,13 +4,13 @@ Version: 1
 # TV LED ESSENTIELB Android TV
 # Essentiel B is Boulanger's distributor brand
 #
-name: Power
+name: POWER
 type: parsed
 protocol: RCA
 address: 0F 00 00 00
 command: 54 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: RCA
 address: 0F 00 00 00

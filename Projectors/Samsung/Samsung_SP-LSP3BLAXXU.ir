@@ -3,7 +3,7 @@ Version: 1
 # 
 # For Samsung Freestyle Smart Projector SP-LSP3BLAXXU
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00
@@ -87,7 +87,7 @@ frequency: 38000
 duty_cycle: 0.330000
 data: 1309 1103 517 508 515 806 517 2306 516 536 436 1459 465 2059 464 1459 465 587 436 2059 464 859 464 2360 463 86890 330 924 332 402 301 676 303
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00

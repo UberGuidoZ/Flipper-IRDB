@@ -3,7 +3,7 @@ Version: 1
 # 
 # Toshiba Fire TV, Model 50C350LC
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 02 7D 00 00
@@ -39,7 +39,7 @@ protocol: NECext
 address: 02 7D 00 00
 command: 19 E6 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NECext
 address: 02 7D 00 00

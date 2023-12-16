@@ -3,7 +3,7 @@ Version: 1
 # 
 # Craig Electronics Speaker CHT912
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 20 00 00 00
@@ -21,7 +21,7 @@ protocol: NEC
 address: 20 00 00 00
 command: 05 00 00 00
 # 
-name: VolumeMute
+name: VolumeMUTE
 type: parsed
 protocol: NEC
 address: 20 00 00 00

@@ -163,7 +163,7 @@ protocol: NECext
 address: 68 6B 00 00
 command: 2F D0 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NECext
 address: 68 6B 00 00

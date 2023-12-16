@@ -4,7 +4,7 @@ Version: 1
 # Maxell MC-WU5503 Projector
 # by sealldeveloper
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 87 45 00 00
@@ -166,7 +166,7 @@ protocol: NECext
 address: 87 45 00 00
 command: CD 32 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NECext
 address: 87 45 00 00

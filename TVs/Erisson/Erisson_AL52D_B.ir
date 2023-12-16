@@ -18,7 +18,7 @@ Version: 1
 # - 43FLM8000T2
 # - 58LES76T2
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 20 00 00 00
@@ -186,7 +186,7 @@ protocol: NEC
 address: 20 00 00 00
 command: 0F 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 20 00 00 00

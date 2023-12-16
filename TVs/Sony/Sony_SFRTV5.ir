@@ -14,7 +14,7 @@ Version: 1
 # All commands preceeded with "0" (eg. "0Optioons" "0Up" "0Blue", etc) are commands run while holding the "SHIFT" key on the remote.
 # Keys with a yellow dot next to them are keys that support "SHIFT" key functions. (Search a picture of the remote model).
 #
-name: Power
+name: POWER
 type: parsed
 protocol: SIRC
 address: 01 00 00 00
@@ -218,7 +218,7 @@ protocol: SIRC20
 address: 10 05 00 00
 command: 7E 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: SIRC
 address: 01 00 00 00
@@ -242,7 +242,7 @@ protocol: SIRC
 address: 01 00 00 00
 command: 13 00 00 00
 # 
-name: 0Power
+name: 0POWER
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
@@ -320,7 +320,7 @@ protocol: SIRC15
 address: B0 00 00 00
 command: 7B 00 00 00
 # 
-name: 0Mute
+name: 0MUTE
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00

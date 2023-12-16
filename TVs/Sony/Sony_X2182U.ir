@@ -5,13 +5,13 @@ Version: 1
 # Remote: RM-887
 # remote came with X2182U, but may actually be for a newer Trinitron TV
 #
-name: Power
+name: POWER
 type: parsed
 protocol: SIRC
 address: 01 00 00 00
 command: 15 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: SIRC
 address: 01 00 00 00

@@ -3,7 +3,7 @@ Version: 1
 # 
 # Fujian Newland TV box used by Claro company in Colombia
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 87 5E 00 00

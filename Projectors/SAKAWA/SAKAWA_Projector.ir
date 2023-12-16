@@ -3,7 +3,7 @@ Version: 1
 # 
 # SAKAWA Projector
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: FF FF 00 00

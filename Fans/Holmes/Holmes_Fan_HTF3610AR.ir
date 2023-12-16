@@ -3,7 +3,7 @@ Version: 1
 # 
 # Holmes Tower Fan HTF3610AR (H306FNX)
 #
-name: Power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

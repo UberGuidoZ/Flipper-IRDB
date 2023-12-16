@@ -3,13 +3,13 @@ Version: 1
 # 
 # Luminara Flameless Candle
 #
-name: Power_on
+name: POWER_on
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 46 00 00 00
 # 
-name: Power_off
+name: POWER_off
 type: parsed
 protocol: NEC
 address: 00 00 00 00

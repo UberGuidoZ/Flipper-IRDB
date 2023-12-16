@@ -3,7 +3,7 @@ Version: 1
 # 
 # Sencor SFH 9013 Heater
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 00 FC 00 00

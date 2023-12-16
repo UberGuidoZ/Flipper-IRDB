@@ -3,7 +3,7 @@ Version: 1
 # 
 # RCA TV RT2471-AC 
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: A0 00 00 00
@@ -111,7 +111,7 @@ protocol: NEC
 address: A0 00 00 00
 command: 0D 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: A0 00 00 00

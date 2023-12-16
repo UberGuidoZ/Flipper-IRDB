@@ -3,7 +3,7 @@ Version: 1
 # 
 # For Phillips FX55 Hi-Fi System
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: RC5
 address: 14 00 00 00
@@ -75,7 +75,7 @@ protocol: RC6
 address: 15 00 00 00
 command: 8C 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: RC5
 address: 10 00 00 00

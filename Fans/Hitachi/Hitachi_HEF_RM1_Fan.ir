@@ -6,7 +6,7 @@ Version: 1
 #
 # Suitable for Hitachi HEF-90R, HEF-DC90, HEF-RM1
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 82 21 00 00

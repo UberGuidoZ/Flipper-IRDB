@@ -4,7 +4,7 @@ Version: 1
 # Model: Samsung LW17E34C LCD TV
 # Remote: Samsung 00225C
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00
@@ -76,7 +76,7 @@ protocol: Samsung32
 address: 07 00 00 00
 command: 07 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00

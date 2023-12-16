@@ -7,7 +7,7 @@ protocol: NECext
 address: 00 FD 00 00
 command: 12 ED 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NECext
 address: 00 FD 00 00

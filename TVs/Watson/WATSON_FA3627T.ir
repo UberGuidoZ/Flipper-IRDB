@@ -3,7 +3,7 @@ Version: 1
 # 
 # Watson TV FA-3627-T
 #
-name: Mute
+name: MUTE
 type: parsed
 protocol: RC5
 address: 00 00 00 00
@@ -45,7 +45,7 @@ protocol: RC5
 address: 00 00 00 00
 command: 11 00 00 00
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: RC5
 address: 00 00 00 00

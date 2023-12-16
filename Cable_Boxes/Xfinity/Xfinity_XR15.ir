@@ -13,13 +13,13 @@ protocol: NECext
 address: 86 05 00 00
 command: 0D F2 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NECext
 address: 86 05 00 00
 command: 0E F1 00 00
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 86 05 00 00

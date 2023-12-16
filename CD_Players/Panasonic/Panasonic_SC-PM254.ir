@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: Kaseikyo
 address: AC 02 20 00
@@ -79,7 +79,7 @@ protocol: Kaseikyo
 address: AC 02 20 02
 command: 51 03 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: Kaseikyo
 address: A0 02 20 00

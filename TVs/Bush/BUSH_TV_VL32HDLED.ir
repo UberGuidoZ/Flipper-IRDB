@@ -3,7 +3,7 @@ Version: 1
 # 
 # Bush TV VL32HDLED
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 08 00 00 00
@@ -87,7 +87,7 @@ protocol: NEC
 address: 08 00 00 00
 command: DC 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 08 00 00 00

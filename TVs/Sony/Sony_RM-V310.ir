@@ -5,7 +5,7 @@ Version: 1
 # Programming - https://www.remotecentral.com/v310/program.htm
 # Manual - https://www.sony.com/electronics/support/res/manuals/2674/26748621M.pdf
 #
-name: Power
+name: POWER
 type: parsed
 protocol: SIRC
 address: 01 00 00 00
@@ -23,7 +23,7 @@ protocol: SIRC
 address: 10 00 00 00
 command: 13 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: SIRC
 address: 10 00 00 00

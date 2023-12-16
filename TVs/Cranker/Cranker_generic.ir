@@ -3,7 +3,7 @@ Version: 1
 # 
 # Cranker TV (Generic)
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 01 00 00 00
@@ -33,7 +33,7 @@ protocol: NEC
 address: 01 00 00 00
 command: 0D 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 01 00 00 00

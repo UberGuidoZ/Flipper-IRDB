@@ -3,7 +3,7 @@ Version: 1
 #
 # Vizio V51-H6 SoundBar
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -33,7 +33,7 @@ protocol: NEC
 address: 00 00 00 00
 command: 45 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NEC
 address: 00 00 00 00

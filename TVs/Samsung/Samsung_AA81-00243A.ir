@@ -11,7 +11,7 @@ protocol: Samsung32
 address: 07 00 00 00
 command: 3B 00 00 00
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00

@@ -5,7 +5,7 @@ Version: 1
 # tested with unleashed 0.50e
 # added all keys
 #
-name: Power
+name: POWER
 type: raw
 frequency: 56000
 duty_cycle: 0.33

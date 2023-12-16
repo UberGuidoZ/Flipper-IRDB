@@ -3,7 +3,7 @@ Version: 1
 # 
 # For Vitec (Exterity) IPTV
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: AD ED 00 00
@@ -57,7 +57,7 @@ protocol: NECext
 address: AD ED 00 00
 command: B1 4E 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: NECext
 address: AD ED 00 00

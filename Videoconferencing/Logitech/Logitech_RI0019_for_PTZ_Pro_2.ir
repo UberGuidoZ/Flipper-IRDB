@@ -6,7 +6,7 @@ Version: 1
 #
 # Captured by: emptythevoid
 #
-name: Video_Mute
+name: Video_MUTE
 type: parsed
 protocol: NEC
 address: 02 00 00 00

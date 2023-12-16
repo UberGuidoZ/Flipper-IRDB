@@ -3,7 +3,7 @@ Version: 1
 #
 # Mini Laser Lightshow A05
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 00 00 00 00

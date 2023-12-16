@@ -3,7 +3,7 @@ Version: 1
 #
 # DeLonghi Pinguino - PAC EL290HLWKC-1A BK
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 81 00 00 00

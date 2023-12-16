@@ -3,7 +3,7 @@ Version: 1
 # 
 # TCL TS5010 Soundbar
 #
-name: Power
+name: POWER
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
@@ -21,7 +21,7 @@ protocol: NECext
 address: 86 FF 00 00
 command: 2B D4 00 00
 # 
-name: VolMute
+name: VolMUTE
 type: parsed
 protocol: NECext
 address: 86 FF 00 00

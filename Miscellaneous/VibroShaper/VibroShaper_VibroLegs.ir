@@ -3,7 +3,7 @@ Version: 1
 #
 # VibroShaper - VibroLegs
 # 
-name: Power
+name: POWER
 type: parsed
 protocol: NEC
 address: 01 00 00 00

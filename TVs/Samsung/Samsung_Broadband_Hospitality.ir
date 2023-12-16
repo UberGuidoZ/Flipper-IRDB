@@ -4,7 +4,7 @@ Version: 1
 # Broadband Hospitality Slate Cleanable Remote (Samsung TV)
 # https://www.urcsupport.com/urc_product/slate-urc8200bb/
 #
-name: Power
+name: POWER
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00
@@ -106,7 +106,7 @@ protocol: Samsung32
 address: 07 00 00 00
 command: 0B 00 00 00
 # 
-name: Mute
+name: MUTE
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00

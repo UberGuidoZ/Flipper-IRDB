@@ -3,7 +3,7 @@ Version: 1
 # 
 # Philips TV
 #
-name: Power
+name: POWER
 type: parsed
 protocol: RC6
 address: 00 00 00 00

@@ -3,7 +3,7 @@ Version: 1
 # 
 # ClassicFlame 23IRM1500-O107 Rolling Mantel with Infrared Quartz Fireplace
 #
-name: Power
+name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
