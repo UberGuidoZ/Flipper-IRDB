@@ -1,0 +1,80 @@
+Filetype: IR signals file
+Version: 1
+#
+# Digital Signage, Model A-28
+# Protocol: NEC, Address: 00 00 00 00
+#
+# Notes:
+# - Exit closes the menu entirely (no separate Back button)
+#
+name: Power
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 00 00 00 00
+#
+name: Source
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 10 00 00 00
+#
+name: Menu
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 04 00 00 00
+#
+name: Up
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 05 00 00 00
+#
+name: Down
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 0D 00 00 00
+#
+name: Left
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 08 00 00 00
+#
+name: Right
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 0A 00 00 00
+#
+name: OK
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 09 00 00 00
+#
+name: Exit
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 0E 00 00 00
+#
+name: Vol_up
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 11 00 00 00
+#
+name: Vol_dn
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 12 00 00 00
+#
+name: Mute
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 02 00 00 00
